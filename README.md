@@ -12,7 +12,7 @@
 
 ### 2. [Health Information Technology Fundamentals](https://www.coursera.org/learn/health-it-fundamentals?specialization=healthcare-it)
 
-####    **Certificate:** 
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/6SZRXLAEUWRC_
 #
 
 ### 3. [Operations and Patient Safety for Healthcare IT Staff](https://www.coursera.org/learn/healthcare-it-operations-patient-safety?specialization=healthcare-it)
