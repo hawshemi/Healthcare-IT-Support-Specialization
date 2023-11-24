@@ -7,7 +7,7 @@
 
 ### 1. [The Critical Role of IT Support Staff in Healthcare](https://www.coursera.org/learn/healthcare-it-support-staff?specialization=healthcare-it)
 
-####    **Certificate:** 
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/V48K72LEJRLB_
 #
 
 ### 2. [Health Information Technology Fundamentals](https://www.coursera.org/learn/health-it-fundamentals?specialization=healthcare-it)
