@@ -1,0 +1,600 @@
+End of Course Quiz - Week 3
+
+----------------------------
+QUESTIONS
+----------------------------
+
+Take a look at the following image and then read the scenario below.
+
+
+As a help desk agent at a large hospital, you receive a call from a nurse who is frantic. She needs to give a patient a blood transfusion. The patient has arrived with a wristband and the nurse is very concerned about the wristband. “There are 4 barcodes on the wristband!!! I think a mistake has been made! What do I do? Do I need to get the patient a new wristband? I have to scan the wristband for proper identification before proceeding with the blood transfusion. Help!” 
+
+Which of the following would be a correct response to the nurse? 
+
+1 point
+
+“You’re correct to be concerned. I’ve never seen this type of issue before. Very strange. Let me escalate the matter to the Tier 2 support staff so they can help you.”
+
+
+“I can see that you're concerned, but this nothing to worry about. Those are 4 copies of the same barcode image. They are intentionally placed on the patient’s wristband, so that based on the position of the patient, any one of them can be scanned easily.”
+
+
+“Hmmm, it looks like a mistake in the printing. Has the printer been functioning properly for other admitted patients? When is the last time another patient had this issue?”
+
+
+“What are you talking about? Did you not receive training on proper barcode scanning and use of patient wristbands? How long have you been in this role?”
+
+
+“I think you should take the wristband off the patient immediately. Let me see what I can do to get the patient a new wristband that only has 1 barcode on it.”
+
+2.
+Question 2
+ A 32-year-old patient with diabetes has a smart glucometer that transmits his blood sugar levels to a cloud- based platform. His primary care physician is able to routinely track the blood sugar levels and make adjustments to the patient's medications if the sugar levels are getting too high.  
+
+Which of the following is this an example of? 
+
+1 point
+
+synchronous telemedicine
+
+
+remote patient monitoring
+
+
+barcode scanning
+
+
+unscheduled downtime
+
+
+self-service ticketing
+
+
+none of the above--the type of technology described in the scenario doesn't exist
+
+3.
+Question 3
+True or False:   
+
+A network enables computers to share data, information, and resources
+
+1 point
+
+True
+
+
+False
+
+4.
+Question 4
+What does LAN stand for?
+
+1 point
+
+Linear Algebra Network
+
+
+Local Area Network
+
+
+Local Agency Net
+
+
+Logical Area Nests
+
+5.
+Question 5
+As a help desk agent, when you receive a call from a clinician or regarding an issue with printing, it can be tough to pinpoint what the exact issue is. Which of the following could be the source of the issue? 
+
+1 point
+
+It could be related to the printer itself
+
+
+Paper jam
+
+
+Problem with the computer or network
+
+
+Related to the application used for printing
+
+
+All of the above
+
+
+None of the above
+
+6.
+Question 6
+True or False:
+
+Files cannot be shared between users on a network.
+
+1 point
+
+True
+
+
+False
+
+7.
+Question 7
+An IT issue is deemed to be very time sensitive because of a network outage impacting the hospital. This type of ticket would be immediately assigned to which priority level?
+
+1 point
+
+Priority 1
+
+
+Priority 2
+
+
+Priority 3
+
+
+Any of these priorities would be appropriate
+
+8.
+Question 8
+Dr. Smith is an eye doctor who is contacted by the emergency room (ER) because of a patient who has come in with eye pain. Dr. Smith is at home, but explains to the ER physician how they can use a special ophthalmoscope to examine the patient. And the images will then be transmitted in real time to Dr. Smith. The ophthalmoscope used in this scenario would be classified as:
+
+1 point
+
+a peripheral
+
+
+remote patient monitoring
+
+
+an end point 
+
+
+store and forward
+
+9.
+Question 9
+Which of the following Tiers of IT support would interact directly with the electronic health record (EHR) vendor to resolve a matter? 
+
+1 point
+
+Tier 1
+
+
+Tier 2
+
+
+Tier 3
+
+
+Tier 4
+
+
+All of the above work with the vendor on each issue
+
+10.
+Question 10
+A 45-year-old female with poorly controlled type 2 diabetes and an elevated hemoglobin A1c of 10.2 presents to her primary care physician (PCP) for a routine check-up. She explains to her provider that over the past week she's had increased numbness and tingling in her toes. She even fell at home 2 days ago and got a cut on her forehead. She went to the Emergency Room at the time and had to get stitches. 
+
+During the current appointment, the primary care provider explains to the patient that she is overdue for her diabetic retinopathy screening. The patient agrees to partake in a new screening program where images of her retina are taken in the PCPs office and transmitted to a reading center staffed by ophthalmologists. At the reading center, a team of image readers under supervision perform image grading, image reading with recommendations, and results reporting.  
+
+In the scenario above, which of the following is the originating site? 
+
+1 point
+
+The reading center
+
+
+The PCP's clinic
+
+
+Unclear from the scenario
+
+
+The patient's home
+
+
+The emergency room
+
+11.
+Question 11
+True or False:  
+
+High reliability organizations in healthcare are ones that promote a culture of safety. 
+
+
+1 point
+
+True
+
+
+False
+
+12.
+Question 12
+Which of the following is the definition of a sentinel event?  
+
+1 point
+
+A nurse administering a routine oral medication for a patient and then documenting it in the electronic health record 
+
+
+An instance where a lab technician can't access their personal email because of a network outage
+
+
+Use of a barcode scanner on a patient's wristband to achieve positive identification
+
+
+A planned downtime where the EHR is not available and clinicians follow downtime procedures
+
+
+A patient safety event that leads to harm or death 
+
+
+All of the above are examples of sentinel events
+
+13.
+Question 13
+True or False:
+
+A LAN can connect computers in a small area such as a clinic or lab.
+
+1 point
+
+True
+
+
+False
+
+14.
+Question 14
+True or False:  
+
+A phlebotomist (person who draws blood from patients) scanning a patient's wristband for purposes of positive patient identification before drawing the patient’s blood is an example of patient safety being promoted.
+
+1 point
+
+True
+
+
+False
+
+15.
+Question 15
+Which of the following is an example of a URL?
+
+1 point
+
+James Jones
+
+
+123.456.78.67
+
+
+testuser12389gmail.com
+
+
+123-445-78-91
+
+
+https://www.google.com
+
+16.
+Question 16
+Which of the following refers to a number that is assigned to devices that connect to a network and use the Internet for communication?
+
+1 point
+
+Application Programming Interface (or API)
+
+
+Assigned ticket
+
+
+Internet protocol address or IP address
+
+
+Asynchronous telemedicine session
+
+
+Electronic Health record
+
+17.
+Question 17
+True or False:  
+
+High reliability organizations can be found in healthcare as well as other industries
+
+1 point
+
+True
+
+
+False
+
+18.
+Question 18
+A busy surgeon performs an amputation of a patient's leg. Following the surgery, it becomes clear to the clinical team that the left leg was amputated, but that had been the healthy one. The patient was supposed to have their right leg amputated. Which of the following is a true statement?
+
+1 point
+
+This is an example of a medication error
+
+
+This is an example of unscheduled downtime
+
+
+This is an example of the proper use of checklists
+
+
+This is an example of positive patient identification
+
+
+This is an example of a sentinel event
+
+
+This is a situation where placing a self-service ticket would be appropriate
+
+
+This is a situation that needs to be handled by Tier 3 IT support team
+
+
+All of the above
+
+19.
+Question 19
+True or False:  
+
+Health IT plays an important role in promoting patient safety, even though it can also lead to patient safety issues. 
+
+1 point
+
+True
+
+
+False
+
+20.
+Question 20
+What does URL stand for?
+
+1 point
+
+Uniform Resource Locator
+
+
+Unknown Resource Location
+
+
+Uniform Right Language
+
+
+Unknown Restricted Line
+
+21.
+Question 21
+Which of the following is an example of a sentinel event? 
+
+1 point
+
+Medication given to the wrong patient leading to a stroke and paralysis
+
+
+Wrong site surgery on a patient who was supposed to have their right arm amputated
+
+
+A fall in the hospital that could have been prevented, which led to a coma
+
+
+All of the above
+
+
+None of the above are examples of sentinel events
+
+22.
+Question 22
+True or False:  
+
+As a help desk agent, it doesn’t matter if an issue has been brought up by only 1 physician today or by 5 physicians in a row. Tracking these kinds of patterns isn’t your problem. Someone else should be paying attention to that.  
+
+
+1 point
+
+True
+
+
+False
+
+23.
+Question 23
+Which of the following is an example where self-service ticketing should NOT be used:
+
+1 point
+
+Clinic manager can't access the payroll system
+
+
+Nurse unable to access her email
+
+
+Network outage in the intensive care unit (ICU)
+
+24.
+Question 24
+An IT issue is deemed important because a physician can't access VPN to follow-up on some of his patient's labs from that day.  This is not a matter that needs to be addressed within minutes, but should be addressed within a few hours at most. Which Priority Level would this be assigned to?
+
+1 point
+
+Priority 1
+
+
+Priority 2
+
+
+Priority 3
+
+
+It doesn't matter, as long as the ticket is created it will get addressed
+
+25.
+Question 25
+Fill in the blank.  
+
+Tier 1 IT support staff generally deal with issues that are _______  the issues Tier 3 staff help with.  
+
+
+1 point
+
+none of the above
+
+
+more complex than
+
+
+just as complex as
+
+
+less complex than
+
+26.
+Question 26
+While staffing a help desk, you get a frantic call from an upset user who says his computer has no display on the monitor. After asking them for their name, userID and a good call back number, what would be an appropriate next question to ask?
+
+1 point
+
+Have you tried turning the monitor on?
+
+
+Is the printer plugged in? 
+
+
+Are you connected to WiFi?
+
+
+Are the barcode scanners on your floor working?
+
+27.
+Question 27
+True or False:  
+
+A Wireless LAN (WLAN) needs to have cables in order to connect to different devices.
+
+1 point
+
+True
+
+
+False
+
+28.
+Question 28
+It’s your 2nd week as an IT support specialist at a health system in New York City. You’re contacted by an office manager for an outpatient clinic because the primary care physicians in her practice are not able to print out prescriptions for their patients. After asking for her full name, userID and a good call back number, you proceed with troubleshooting the issue. She says that the HP Photosmart C420 printer was working fine yesterday. She confirms that the printer is plugged in. She also explains that there’s paper in the printer and no error message. You ask her to go to her settings and to pull up the Printer application. This is what she sees. Which of the following would be an appropriate response? 
+
+
+
+1 point
+
+“Unfortunately, I don’t think there’s anything we can do at this time. Since it’s likely a matter of ordering a new printer for the clinic. We have several options in the technology store. Would you like me to share the website with you?”
+
+
+“Do not worry, we should be able to resolve this quickly for you. It appears that the printer you’d like to be printing to is offline. So the prescriptions have been printing to a printer elsewhere. I’ll walk you through selecting the correct printer, but also recommend that you go to the other printer to find the prescriptions so that protected health information isn’t shared with individuals who don’t need to have access to it.”
+
+
+“Sounds like a paper jam. What you need to do is resolve that, and then you should see the prescriptions printing out properly. I’m happy to walk you through the steps involved in fixing this matter. It can generally result from a misfeed and if the paper appears crumpled, we’ll need to carefully remove all of it. Then we’ll be able to test things again to see if the prescriptions are printing properly.”
+
+
+“Ah, I see what’s going on. It looks like you are low on toner. Whenever that happens, it’s important to replace the print cartridge. I’m happy to go through the steps involved with that if you’d like.”
+
+
+“This is pretty surprising that your clinic isn’t making use of e-prescribing. I don’t understand why you would still be printing out prescriptions and handing them to patients.”
+
+
+“This is odd. It looks like the correct printer has been selected, so I don’t think that’s the issue. Let’s see it’s a driver compatibility issue.”
+
+
+
+----------------------------
+ANSWERS
+----------------------------
+
+"I can see that you're concerned, but this nothing to worry about. Those are 4 copies of the same barcode image. They are intentionally placed on the patient’s wristband, so that based on the position of the patient, any one of them can be scanned easily.”
+
+remote patient monitoring
+
+
+True
+
+
+Local Area Network
+
+
+All of the above
+
+
+False
+
+
+Priority 1
+
+
+a peripheral
+
+
+Tier 3
+
+
+The PCP's clinic
+
+
+True
+
+
+A patient safety event that leads to harm or death
+
+
+True
+
+
+True
+
+
+https://www.google.com
+
+
+Internet protocol address or IP address
+
+
+True
+
+
+This is an example of a sentinel event
+
+
+True
+
+
+Uniform Resource Locator
+
+
+All of the above
+
+
+False
+
+
+Network outage in the intensive care unit (ICU)
+
+
+Priority 2
+
+
+less complex than
+
+
+Have you tried turning the monitor on?
+
+
+False
+
+
+“Do not worry, we should be able to resolve this quickly for you. It appears that the printer you’d like to be printing to is offline. So the prescriptions have been printing to a printer elsewhere. I’ll walk you through selecting the correct printer, but also recommend that you go to the other printer to find the prescriptions so that protected health information isn’t shared with individuals who don’t need to have access to it.”

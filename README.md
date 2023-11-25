@@ -2,7 +2,7 @@
 
 
 ## [Healthcare IT Support Specialization](https://www.coursera.org/specializations/healthcare-it)
-####    **Certificate:** 
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/specialization/XCF4NSFF6YKK_
 #
 
 ### 1. [The Critical Role of IT Support Staff in Healthcare](https://www.coursera.org/learn/healthcare-it-support-staff?specialization=healthcare-it)
@@ -17,12 +17,12 @@
 
 ### 3. [Operations and Patient Safety for Healthcare IT Staff](https://www.coursera.org/learn/healthcare-it-operations-patient-safety?specialization=healthcare-it)
 
-####    **Certificate:** 
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/P7WBDN2KUE7D_
 #
 
 ### 4. [Healthcare Data Security, Privacy, and Compliance](https://www.coursera.org/learn/healthcare-data-security?specialization=healthcare-it)
 
-####    **Certificate:** 
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/CFED3NJ3MTSC_
 #
 
 
