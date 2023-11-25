@@ -22,7 +22,7 @@
 
 ### 4. [Healthcare Data Security, Privacy, and Compliance](https://www.coursera.org/learn/healthcare-data-security?specialization=healthcare-it)
 
-####    **Certificate:** 
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/CFED3NJ3MTSC_
 #
 
 
