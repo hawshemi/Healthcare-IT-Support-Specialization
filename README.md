@@ -17,7 +17,7 @@
 
 ### 3. [Operations and Patient Safety for Healthcare IT Staff](https://www.coursera.org/learn/healthcare-it-operations-patient-safety?specialization=healthcare-it)
 
-####    **Certificate:** 
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/P7WBDN2KUE7D_
 #
 
 ### 4. [Healthcare Data Security, Privacy, and Compliance](https://www.coursera.org/learn/healthcare-data-security?specialization=healthcare-it)
