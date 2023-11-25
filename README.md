@@ -2,7 +2,7 @@
 
 
 ## [Healthcare IT Support Specialization](https://www.coursera.org/specializations/healthcare-it)
-####    **Certificate:** 
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/specialization/XCF4NSFF6YKK_
 #
 
 ### 1. [The Critical Role of IT Support Staff in Healthcare](https://www.coursera.org/learn/healthcare-it-support-staff?specialization=healthcare-it)
